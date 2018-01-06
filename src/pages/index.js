@@ -21,7 +21,7 @@ const User = props =>
       </p>
     </div>
   </div>
-
+  
 export default () =>
   <div>
     <Container>
