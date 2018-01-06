@@ -26,7 +26,7 @@ export default () =>
   <div>
     <Container>
       <User
-        avatar="https://github.com/stephenrlouie/site/raw/draft1/img/headshot.jpg"
+        avatar="https://github.com/stephenrlouie/site/raw/master/img/headshot.jpg"
         professional=
         "I'm currently a Software Engineer at Cisco Systems working
         out of the Greater Boston area. I primarily develop in Go
