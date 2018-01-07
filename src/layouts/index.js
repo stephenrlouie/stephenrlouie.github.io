@@ -20,7 +20,9 @@ export default ({ children }) => (
           maxWidth: 600,
           margin: `0 auto`,
         }}>
+          <Link to="/" style={{ textDecoration: 'none', color: 'black' }}>
             <h1 style={{display: `inline` }}>Steve Louie</h1>
+          </Link>
             <ul style={{listStyle: `none`, float: `right` }}>
               <ListLink
                 url="https://www.linkedin.com/in/stlouie/"
