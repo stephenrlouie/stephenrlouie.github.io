@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Steve Louie`,
+    title: `Steve Louie Personal Site`,
+    author: `Steve Louie`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -11,6 +12,14 @@ module.exports = {
         pathToConfigModule: `src/utils/typography.js`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/md`,
+        name: 'pages',
+      },
+    },
+    `gatsby-transformer-remark`
   ],
   pathPrefix: `/site`
 }
