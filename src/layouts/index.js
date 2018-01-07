@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "gatsby-link";
 import Headroom from "react-headroom"
+require("prismjs/themes/prism-okaidia.css");
 
 const ListLink = props =>
   <li style={{display: `inline-block`, marginRight: `1rem`, padding: "5px 0px 5px 0px"}}>
@@ -20,7 +21,7 @@ export default ({ children }) => (
           maxWidth: 600,
           margin: `0 auto`,
         }}>
-          <Link to="/" style={{ textDecoration: 'none', color: 'black' }}>
+          <Link to="/" style={{textDecoration: 'none', color: 'black' }}>
             <h1 style={{display: `inline` }}>Steve Louie</h1>
           </Link>
             <ul style={{listStyle: `none`, float: `right` }}>

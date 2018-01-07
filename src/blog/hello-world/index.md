@@ -23,13 +23,13 @@ The package `autocomplete-plus` is probably installed as a `Core Package` for yo
 
 ![Autocomplete-plus](./autocomplete-plus.jpg)
 
-## Soft wrap on specific file markdown
+### Soft wrap on specific file markdown
 The default settings for soft wrap are all encompassing by default, which is not what I wanted given sometimes its nice to see code as its written. Markdown was one place where I wanted a soft wrap by default and I was annoying toggling the default settings in my Atom editor every time I typed up markdown.
 
 Open up your Atom config, it should open a file called `config.cson`.
 
 Put this at the bottom:
-```
+```json
 ".gfm.source":
   editor:
     softWrapAtPreferredLineLength: true

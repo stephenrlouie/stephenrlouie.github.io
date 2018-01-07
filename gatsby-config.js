@@ -49,10 +49,11 @@ module.exports = {
               pathPrefix: '/site'
             }
           },
-          'gatsby-remark-prismjs'
+          `gatsby-remark-prismjs`,
         ]
       }
-    }
+    },
+    `gatsby-remark-prismjs`
   ],
   pathPrefix: `/site`
 }
