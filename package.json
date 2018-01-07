@@ -8,6 +8,8 @@
     "gatsby-link": "^1.6.32",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-plugin-typography": "^1.7.10",
+    "gatsby-remark-images": "^1.5.36",
+    "gatsby-remark-prismjs": "^1.2.11",
     "gatsby-source-filesystem": "^1.5.11",
     "gatsby-transformer-remark": "^1.7.26",
     "react-headroom": "^2.2.2",
