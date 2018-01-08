@@ -12,14 +12,14 @@ This site is a weekend project in an attempt to learn more web technologies. Sin
 ## How did I get started?
 It seemed like React was the new *hotness* so I figured I'd try it. I found the [reactiflux discord](https://discord.gg/CNdSkN) and saw some of their learning resources. I ended up watching some react videos and walking through the basics at [reactjs.org](https://reactjs.org/).
 
-I was planning on making a Heroes of the Storm timer app as my first project, but also realized I could make a personal site for myself. (Something I've been putting off for years) So here we are, and as you can see its not the most beautiful site in the world. I hope to touch it up as I learn more and maybe one day this can be a real site / blog.
+I was planning on making a Heroes of the Storm timer app as my first project, but also realized I could make a personal site for myself. (Something I've been putting off for years) So here we are, and as you can see its not the most beautiful site in the world. I hope to touch it up as I learn more.
 
 ## Config for Atom that changed my life
 
 ### Disable Autocomplete-plus on certain file types
-I've finally had enough of Atom suggesting text when I'm typing up documentation / just using Atom as a notepad. (I swear it has become a habit to hit my escape key when I type to shut Atom up)
+I've finally had enough of Atom suggesting text when I'm typing up documentation / just using Atom as a notepad. (I swear it has become a habit to hit my escape key, to close the autocomplete suggestion, when I type.)
 
-The package `autocomplete-plus` is probably installed as a `Core Package` for you. Find that package and add `*.md, *.txt` and any other file extensions to be on the `File Blacklist`.
+The package `autocomplete-plus` should be installed as a `Core Package` for you. Find that package and add `*.md, *.txt` and any other file extensions to be on the `File Blacklist`.
 
 ![Autocomplete-plus](./autocomplete-plus.jpg)
 
@@ -28,7 +28,7 @@ The default settings for soft wrap are all encompassing by default, which is not
 
 Open up your Atom config, it should open a file called `config.cson`.
 
-Put this at the bottom:
+Put this at the the left most level indentation:
 ```json
 ".gfm.source":
   editor:
