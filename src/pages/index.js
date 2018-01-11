@@ -21,7 +21,7 @@ export default () =>
         title="Profession"
         text=
         "I'm currently a Software Engineer at Cisco Systems working
-        out of the Greater Boston area. Most of my experience has been writing,
+        out of the Greater Boston area. Most of my experience has been developing
         distributed systems, and orchestration software. I mostly write Go
         to develop microservices to be deployed on Kubernetes."
       />
@@ -37,7 +37,7 @@ export default () =>
         text=
         "You can find me Lindy Hopping at least once a week in the Boston
         area. I enjoy cooking, playing board games and video games, and
-        being active in anyway (sports, rowing, lifting)."
+        being active in any way (sports, rowing, lifting)."
       />
     </Container>
   </div>;
