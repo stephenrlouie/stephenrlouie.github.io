@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Use a password manager please!
 category: security
-tags: [security, password, keepass]
+tags: [security, password]
 ---
 
 *Reflections on my move to using a password manager.*

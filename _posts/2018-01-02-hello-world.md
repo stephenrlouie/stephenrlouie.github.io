@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: "Initial site: post"
 category: productivity
-tags: [atom, productivity, markdown, config]
+tags: [atom, markdown, config, ide]
 ---
 
 I don't intend to blog often, but will if I have any compelling ideas, thoughts to share with the world. Hopefully it happens more often than I think it will.
