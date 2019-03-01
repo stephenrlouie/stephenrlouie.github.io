@@ -1,2 +1,0 @@
-webpackJsonp([0x9427c64ab85d],{358:function(e,t,n){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var o=n(5),a=u(o),l=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Page Not Found"),a.default.createElement("img",{alt:"Not Found",src:"https://i2.wp.com/gifrific.com/wp-content/uploads/2012/07/ron-swanson-computer-throw-out-parks-and-rec.gif?ssl=1"}))};t.default=l,e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-404-js-ca1deb210e0ec7caac5d.js.map
