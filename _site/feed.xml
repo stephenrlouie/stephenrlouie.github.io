@@ -7,7 +7,7 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Initial Post</title>
+				<title>stevelouie.com is now open for business!</title>
 				
 				
 					<description>&lt;p&gt;My first post to commemorate getting stevelouie.com!&lt;/p&gt;
@@ -15,8 +15,34 @@
 </description>
 				
 				<pubDate>Thu, 28 Feb 2019 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2019/02/28/welcome.html</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2019/02/28/welcome.html</guid>
+				<link>http://0.0.0.0:4000/event/2019/02/28/welcome.html</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/event/2019/02/28/welcome.html</guid>
+			</item>
+		
+			<item>
+				<title>Use a password manager please!</title>
+				
+				
+					<description>&lt;p&gt;&lt;em&gt;Reflections on my move to using a password manager.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 24 Jan 2018 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/security/2018/01/24/passwordmanager.html</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/security/2018/01/24/passwordmanager.html</guid>
+			</item>
+		
+			<item>
+				<title>Initial site: post</title>
+				
+				
+					<description>&lt;p&gt;I don’t intend to blog often, but will if I have any compelling ideas, thoughts to share with the world. Hopefully it happens more often than I think it will.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 02 Jan 2018 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/productivity/2018/01/02/hello-world.html</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/productivity/2018/01/02/hello-world.html</guid>
 			</item>
 		
 	</channel>

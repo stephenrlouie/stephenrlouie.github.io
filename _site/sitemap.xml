@@ -53,9 +53,27 @@
   
   
     <url>
-      <loc>http://0.0.0.0:4000/2019/02/28/welcome.html</loc>
+      <loc>http://0.0.0.0:4000/event/2019/02/28/welcome.html</loc>
       
         <lastmod>2019-02-28T00:00:00-06:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://0.0.0.0:4000/security/2018/01/24/passwordmanager.html</loc>
+      
+        <lastmod>2018-01-24T00:00:00-06:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://0.0.0.0:4000/productivity/2018/01/02/hello-world.html</loc>
+      
+        <lastmod>2018-01-02T00:00:00-06:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>

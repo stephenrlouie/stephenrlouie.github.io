@@ -30,10 +30,10 @@ force-https: True
 
 lang: "en"
 author: "Steve Louie"
-title: "SteveLouie"
-description: "Steve louie's personal site."
+title: "Steve Louie"
+description: "Steve Louie's personal site."
 keywords: "steve, louie"
-favicon: "../img/favicon.ico"
+favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
