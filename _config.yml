@@ -176,7 +176,7 @@ email: "steve@stevelouie.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Steve enjoys developing cloud native apps and operating distributed systems. He loves to play vide games, board games, and lindy hop."
+author_blurb: "Steve Louie: Husband, Cloud Engineer, Gopher, Gamer, Lindy Hopper"
 author_blurb_image: "https://github.com/stephenrlouie.png?size=500"
 
 ##################
