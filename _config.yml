@@ -47,18 +47,14 @@ background-img: "../img/Boston_Back_Bay_reflection.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-dynamic-typing: True
+dynamic-typing: False
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 9
 start-delay: 200
 delete-delay: 8000
-lines: # You can add HTML Tags in the Text
-  - text: "Welcome to stevelouiecom! Where the only limit is yourself."
-  - text: "How many programmers does it take to change a light bulb??? ...  None. It's a hardware problem"
-  - text: "What is the object oriented way to become wealthy? ... Inheritance"
-  - text: "I would tell you a UDP joke, but you might not get it."
+# lines: # You can add HTML Tags in the Text
 
 # me-img: "/img/jetpacktocat.png"
 
@@ -133,28 +129,28 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/bose.jpg"
     date: "Winter 2018 - Present"
-    description: "Cloud Engineer"
+    description: "Bose: Cloud Engineer"
   - image: "/img/timeline/kubeconEU2018.jpg"
     date: "Spring 2018"
     description: "Kubecon Presentation: Bringing Cloud-Native Applications to the Edge of the Network"
   - image: "/img/timeline/csco.jpg"
     date: "2015 - 2018"
-    description: "Software Engineer"
+    description: "Cisco: Software Engineer"
   - image: "/img/timeline/lehigh.png"
     date: "2015"
-    description: "Masters of Engineering: Computer Science"
+    description: "Lehigh University: Masters of Engineering: Computer Science"
   - image: "/img/timeline/msft.png"
     date: "May 2014"
-    description: "SDET Intern"
+    description: "Microsoft: SDET Intern"
   - image: "/img/timeline/lehigh.png"
     date: "May 2014"
-    description: "Bachelor of Science: Integrated Business and Engineering"
+    description: "Lehigh University: Bachelor of Science: Integrated Business and Engineering"
   - image: "/img/timeline/bd.jpg"
     date: "Summer 2013"
-    description: "Technical Development Intern"
+    description: "Becton Dickinson: Technical Development Intern"
   - image: "/img/timeline/ng.jpg"
     date: "Summer 2012"
-    description: "Software Engineer Intern"
+    description: "Northrop Grumman: Software Engineer Intern"
 
 # First image of the Timeline
 
@@ -176,7 +172,7 @@ email: "steve@stevelouie.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Steve Louie: Husband, Cloud Engineer, Gopher, Gamer, Lindy Hopper"
+author_blurb: "Steve Louie: Husband, Cloud Engineer, Gopher, Corgi Owner, Gamer, Lindy Hopper"
 author_blurb_image: "https://github.com/stephenrlouie.png?size=500"
 
 ##################
