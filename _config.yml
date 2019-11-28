@@ -184,8 +184,6 @@ social:
     url: https://twitter.com/Stephen_Louie
   - title: "github"
     url: https://github.com/stephenrlouie
-  - title: "gitlab"
-    url: https://gitlab.com/stephenrlouie
   - title: "linkedin"
     url: https://www.linkedin.com/in/stephenrlouie
 
@@ -211,7 +209,6 @@ err-404-img: "../img/404.jpg"
 
 pages_list:
   About: 'about'
-  # Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
