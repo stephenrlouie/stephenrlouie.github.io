@@ -105,9 +105,9 @@ icon-192p: "https://github.com/stephenrlouie.png?size=192"
 
 enable-gesture-navigation: False
 
-post-preview-words: 96
+# post-preview-words: 96
 
-paginate: 5
+# paginate: 5
 
 email-share: True
 fb-share: False
@@ -184,8 +184,10 @@ social:
     url: https://twitter.com/Stephen_Louie
   - title: "github"
     url: https://github.com/stephenrlouie
+  - title: "gitlab"
+    url: https://gitlab.com/stephenrlouie
   - title: "linkedin"
-    url: https://www.linkedin.com/in/stephenrlouie/
+    url: https://www.linkedin.com/in/stephenrlouie
 
 ############
 # 404 page #
@@ -209,7 +211,7 @@ err-404-img: "../img/404.jpg"
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  # Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
@@ -219,7 +221,7 @@ exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 # Pagination path
 
-paginate_path: "blog/page:num/"
+# paginate_path: "blog/page:num/"
 
 # Enable minification SASS
 
