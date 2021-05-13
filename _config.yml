@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 #black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/Boston_Back_Bay_reflection.jpg"
+# background-img: ""
 
 ##############################
 # Dynamic Text on the Header #
