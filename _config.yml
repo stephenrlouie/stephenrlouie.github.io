@@ -127,8 +127,11 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/starburst.jpg"
+    date: "Spring 2021 - Present"
+    description: "Starburtst Data: Software Engineer (Cloud Platform)"
   - image: "/img/timeline/bose.jpg"
-    date: "Winter 2018 - Present"
+    date: "Winter 2018 - Spring 2021"
     description: "Bose: Cloud Engineer"
   - image: "/img/timeline/kubeconEU2018.jpg"
     date: "Spring 2018"
