@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 #black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/Boston_Back_Bay_reflection.jpg"
+# background-img: ""
 
 ##############################
 # Dynamic Text on the Header #
@@ -127,8 +127,11 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/starburst.jpg"
+    date: "Spring 2021 - Present"
+    description: "Starburtst Data: Software Engineer (Cloud Platform)"
   - image: "/img/timeline/bose.jpg"
-    date: "Winter 2018 - Present"
+    date: "Winter 2018 - Spring 2021"
     description: "Bose: Cloud Engineer"
   - image: "/img/timeline/kubeconEU2018.jpg"
     date: "Spring 2018"
@@ -172,7 +175,7 @@ email: "steve@stevelouie.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Steve Louie: Husband, Cloud Engineer, Gopher, Corgi Owner, Gamer, Lindy Hopper"
+author_blurb: "Steve Louie: Husband, Cloud/Software Engineer, Kubernetes Enthusiast / 'Yaml Engineer',  Gopher, Corgi Dad, Gamer, Lindy Hopper"
 author_blurb_image: "https://github.com/stephenrlouie.png?size=500"
 
 ##################
