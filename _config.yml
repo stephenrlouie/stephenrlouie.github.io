@@ -129,7 +129,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/starburst.jpg"
     date: "Spring 2021 - Present"
-    description: "Starburst Data: Software Engineer (Cloud Platform)"
+    description: "Starburst Data: Galaxy Site Reliability Engineer (Cloud/Kubernetes)"
   - image: "/img/timeline/bose.jpg"
     date: "Winter 2018 - Spring 2021"
     description: "Bose: Cloud Engineer"
