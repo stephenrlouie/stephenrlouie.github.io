@@ -127,12 +127,15 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/bose.jpg"
+    date: "Fall 2022 - Present"
+    description: "Bose: Senior Cloud Platform Engineer"
   - image: "/img/timeline/starburst.jpg"
-    date: "Spring 2021 - Present"
+    date: "Spring 2021 - Fall 2022"
     description: "Starburst Data: Galaxy Site Reliability Engineer (Cloud/Kubernetes)"
   - image: "/img/timeline/bose.jpg"
     date: "Winter 2018 - Spring 2021"
-    description: "Bose: Cloud Engineer"
+    description: "Bose: Cloud Platform Engineer"
   - image: "/img/timeline/kubeconEU2018.jpg"
     date: "Spring 2018"
     description: "Kubecon Presentation: Bringing Cloud-Native Applications to the Edge of the Network"
