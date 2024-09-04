@@ -186,8 +186,6 @@ email: "hi@stevelouie.com"
 ##################
 
 social:
-  - title: "twitter"
-    url: https://twitter.com/Stephen_Louie
   - title: "github"
     url: https://github.com/stephenrlouie
   - title: "linkedin"
